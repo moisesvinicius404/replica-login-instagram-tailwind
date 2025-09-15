@@ -7,5 +7,5 @@ O objetivo é **praticar o uso das classes utilitárias do Tailwind** para criar
 
 ## 📂 Imagem da tela de login
 
-![imagem]()
+![imagem](https://github.com/moisesvinicius404/replica-login-instagram-tailwind/blob/main/img-tela-login.png)
 
